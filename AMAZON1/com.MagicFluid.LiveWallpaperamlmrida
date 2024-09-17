@@ -4,7 +4,7 @@
     "NormalClickCount":1,
     "AdmobClickCount":4,
     "ShowLoadingAds":true,
-    "BannerAds":"yandex",
+    "BannerAds":"mintegral",
     "InterstitialAds":"yandex",
     "NativeAds":"yandex",
     "RewardAds":"yandex",
