@@ -1,13 +1,13 @@
 {
   "ads":{
-    "ShowAds":false,
-    "MintegralAppKey":"7c22942b749fe6a6e361b675e96b3ee9",
-    "mintegralAppID":"144002",
-    "mintegralbannerunit":"2677210",
-    "mintegralbannerplacement":"1010694",
-    "mintegralinterstitialunit":"462374",
-    "mintegralinterstitialplacement":"290653",
-    "mintegralnativeunit":"462377",
-    "mintegralnativeplacement":"290656"
+    "ShowAds":true,
+    "MintegralAppKey":"4292c0fbe732a6fc4cfc7e6a51466915",
+    "mintegralAppID":"325298",
+    "mintegralbannerunit":"3771658",
+    "mintegralbannerplacement":"1850269",
+    "mintegralinterstitialunit":"3771654",
+    "mintegralinterstitialplacement":"1850266",
+    "mintegralnativeunit":"3771653",
+    "mintegralnativeplacement":"1850265"
   }
 }
