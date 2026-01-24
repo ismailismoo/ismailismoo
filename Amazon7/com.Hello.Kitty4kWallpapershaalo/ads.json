@@ -4,7 +4,7 @@
     "ShowDropAds":false,
     "ShowCpaAds":false,
     "AdmobClick":3,
-    "MintegralClick":3,
+    "MintegralClick":2,
     "BannerAds":"bb",
     "InterstitialAds":"min",
     "NativeAds":"bb",
