@@ -1,6 +1,6 @@
 {
   "AdsManager": {
-    "ShowAds":false,
+    "ShowAds":true,
     "ShowDropAds":false,
     "ShowCpaAds":false,
     "AdmobClick":2,
