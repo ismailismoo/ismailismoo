@@ -1,10 +1,10 @@
 {
   "AdsManager": {
-    "ShowAds":false,
+    "ShowAds":true,
     "ShowDropAds":false,
     "ShowCpaAds":false,
     "AdmobClick":2,
-    "MintegralClick":2,
+    "MintegralClick":1,
     "BannerAds":"bb",
     "InterstitialAds":"min",
     "NativeAds":"bb",
