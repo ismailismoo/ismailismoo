@@ -1,0 +1,69 @@
+ {
+  "ChannelsData":[
+           {
+      "CategoryName":"Premier League",
+      "CategoryLogo":"https://jksahk.cyou/mintegral/logos/pl.png",
+      "CategoryChannels":[
+          {
+          "ChannelImage":"https://jksahk.cyou/mintegral/logos/pl.png",
+          "ChannelName":"No Match Today",
+          "ChannelLink":"https://kool.to/play/3640268356/index.m3u8",
+          "Play_In":"app"}
+          ]},
+          {
+      "CategoryName":"La Liga",
+      "CategoryLogo":"https://jksahk.cyou/mintegral/logos/ll.png",
+      "CategoryChannels":[
+          {
+          "ChannelImage":"https://jksahk.cyou/mintegral/logos/ll.png",
+          "ChannelName":"Espanyol vs Barcelona",
+          "ChannelLink":"https://kool.to/play/1544059597/index.m3u8",
+          "Play_In":"app"},
+          {
+          "ChannelImage":"https://jksahk.cyou/mintegral/logos/ll.png",
+          "ChannelName":"Espanyol vs Barcelona",
+          "ChannelLink":"https://kool.to/play/4254563788/index.m3u8",
+          "Play_In":"app"}
+         ]},
+        {
+      "CategoryName":"Serie A",
+      "CategoryLogo":"https://jksahk.cyou/mintegral/logos/sa.png",
+      "CategoryChannels":[
+          {
+          "ChannelImage":"https://jksahk.cyou/mintegral/logos/sa.png",
+          "ChannelName":"No Match Today",
+          "ChannelLink":"https://kool.to/play/1544059597/index.m3u8",
+          "Play_In":"app"}
+        ]},
+        {
+      "CategoryName":"Ligue 1",
+      "CategoryLogo":"https://jksahk.cyou/mintegral/logos/l1.png",
+      "CategoryChannels":[
+          {
+          "ChannelImage":"https://jksahk.cyou/mintegral/logos/l1.png",
+          "ChannelName":"No live match today",
+          "ChannelLink":"https://kool.to/play/1203235249/index.m3u8",
+          "Play_In":"app"}
+        ]},
+        {
+      "CategoryName":"Bundesliga",
+      "CategoryLogo":"https://jksahk.cyou/mintegral/logos/bl.png",
+      "CategoryChannels":[
+          {
+          "ChannelImage":"https://jksahk.cyou/mintegral/logos/bl.png",
+          "ChannelName":"No Match Today",
+          "ChannelLink":"https://kool.to/play/3970882082/index.m3u8",
+          "Play_In":"app"}
+        ]},
+        {
+      "CategoryName":"More",
+      "CategoryLogo":"",
+      "CategoryChannels":[
+          {
+          "ChannelImage":"",
+          "ChannelName":"",
+          "ChannelLink":"https://www.kool.to/play/3844916882/index.m3u8",
+          "Play_In":"app"}
+        ]}
+    ]
+}
